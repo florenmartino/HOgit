@@ -119,4 +119,11 @@ y el push
 
 ```
 git push
-```
+ME PARECE super interesante APRENDER a usar github. 
+Ojala entienda los ejercicioS
+y los pueda aplicar a mis archivos del doctorado
+
+
+A
+
+S
